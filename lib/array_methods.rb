@@ -4,6 +4,7 @@ def using_include(array, element)
    puts true
   elsif array.include?("Tardis")
   puts false
+end 
   
 end
 
